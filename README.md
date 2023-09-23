@@ -1,1 +1,1 @@
-# -sightseeing-map
+# sightseeing-map
